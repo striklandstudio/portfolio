@@ -8,7 +8,7 @@ const projects = [
     description:
       "Editorial-style site for a Chicago bakery. Split A.M./P.M. menu, pre-order form with email handoff, and embedded location map.",
     tags: ["Next.js", "Tailwind", "Pre-order form"],
-    url: "#", // replace with the live Vercel URL after you deploy
+    url: "https://bakery-seven-tau.vercel.app/", // replace with the live Vercel URL after you deploy
     gradient: "from-amber-400 to-rose-500",
     // image: "/images/bakehouse.png",
   },
