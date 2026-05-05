@@ -4,13 +4,13 @@
 // - url: where "View site" links to. Use "#" if the project isn't live yet.
 const projects = [
   {
-    title: "Bay Area Bakery",
+    title: "Logan Square Bakehouse",
     description:
-      "A clean, mobile-first site for a neighborhood bakery. Online ordering, daily specials, and Instagram feed integration.",
-    tags: ["Next.js", "Tailwind", "Stripe"],
-    url: "#",
+      "Editorial-style site for a Chicago bakery. Split A.M./P.M. menu, pre-order form with email handoff, and embedded location map.",
+    tags: ["Next.js", "Tailwind", "Pre-order form"],
+    url: "#", // replace with the live Vercel URL after you deploy
     gradient: "from-amber-400 to-rose-500",
-    // image: "/images/bakery.png",
+    // image: "/images/bakehouse.png",
   },
   {
     title: "Maple Street Dental",
