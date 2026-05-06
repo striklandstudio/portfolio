@@ -26,7 +26,7 @@ const projects = [
     description:
       "Modern luxe site for a Chicago full-service salon. Multi-page navigation, full service menu with photos, online booking form, and team profiles.",
     tags: ["Next.js", "Tailwind", "Booking form"],
-    url: "https://salon-o7sszv66k-strikland-studio-s-projects.vercel.app/",
+    url: "https://salon-weld-xi.vercel.app/",
     gradient: "from-amber-200 to-zinc-900",
     // image: "/images/maison-aurelle.png",
   },
